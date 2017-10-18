@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="log4j-1.2.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Java JARs/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Java JARs/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
